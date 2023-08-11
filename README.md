@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kmacri12
 - 👀 I’m interested in AI/ML, Python
-- 🌱 I’m currently working as a Software Engineer II - Artificial Intelligence
+- 🧑‍💻 I’m currently working as a Software Engineer II - Artificial Intelligence
 - 📚 I have completed my Masters of Science, Computer Science with a specialization in Machine Learning, from Georgia Institute of Technology
 - 📫 How to reach me: kyle@kylemacri.com
